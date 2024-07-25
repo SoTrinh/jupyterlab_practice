@@ -1,0 +1,5 @@
+name: practice_evn
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\bacso\miniconda3\envs\practice_evn
