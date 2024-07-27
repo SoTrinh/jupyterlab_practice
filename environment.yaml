@@ -1,0 +1,7 @@
+name: practice_evn
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+prefix: C:\Users\bacso\miniconda3\envs\practice_evn
